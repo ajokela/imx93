@@ -13,7 +13,7 @@ import time
 from pathlib import Path
 from datetime import datetime
 
-CHECKPOINT_FILE = Path('/Users/alexjokela/projects/ballistics/data/imx93_extraction.checkpoint.json')
+CHECKPOINT_FILE = Path('/Users/alexjokela/projects/imx93/data/imx93_extraction.checkpoint.json')
 
 
 def load_checkpoint():
