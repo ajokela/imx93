@@ -1,0 +1,17 @@
+,IDLE,SUSPEND,BBSM
+RTC,ON,ON,ON
+External DRAM device,Self-Refresh,Self-Refresh,OFF
+USB PHY,In Low Power State,OFF,OFF
+DRAM clock,266 MHz,OFF,OFF
+NOC clock,133 MHz,OFF,OFF
+AXI clock,133 MHz,OFF,OFF
+Module clocks,ON as needed,OFF,OFF
+EdgeLock® Secure Enclave,ON,ON,ON
+GPIO Wakeup,Yes,Yes,OFF
+RTC Wakeup,Yes,Yes,Yes
+RTC remote wakeup,Yes,No¹,Yes
+USB remote wakeup,Yes,No¹,No
+Other wakeup source,Yes,No²,No
+WAKEUPMIX,ON,OFF³,OFF
+MLMIX,ON,OFF,OFF
+NICMIX,ON as needed,OFF,OFF

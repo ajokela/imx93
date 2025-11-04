@@ -1,0 +1,7 @@
+ID,Characteristic,Min.,Max.,Unit
+M10,ENET_MDC falling edge to ENET_MDIO output invalid (min. propagation delay),-1.5,—,ns
+M11,ENET_MDC falling edge to ENET_MDIO output valid (max. propagation delay),—,13,ns
+M12,ENET_MD (input) to ENET_MDC rising edge setup,13,—,ns
+M13,ENET_MD (input) to ENET_MDC rising edge hold,0,—,ns
+M14,ENET_MDC pulse width high,40%,60%,ENET_MDC period
+M15,ENET_MDC pulse width low,40%,60%,ENET_MDC period

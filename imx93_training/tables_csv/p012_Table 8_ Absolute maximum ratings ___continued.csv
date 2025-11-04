@@ -1,0 +1,11 @@
+Parameter description,Symbol,Min,Max,Unit,Notes
+VDD_USB_1P8,VDD_USB_1P8,-0.3,2.15,V,—
+VDD_USB_3P3,VDD_USB_3P3,-0.3,3.95,V,—
+MIPI PHY supply voltage,VDD_MIPI_0P8,-0.3,1.15,V,—
+MIPI PHY supply voltage,VDD_MIPI_1P8,-0.3,2.15,V,—
+LVDS PHY supply voltage,VDD_MIPI_LVDS_1P8,-0.3,2.15,V,—
+LVDS PHY supply voltage,VDD_LVDS_1P8,-0.3,2.15,V,—
+Analog core supply supply voltage,VDD_ANA_0P8,-0.3,1.15,V,—
+Analog core supply supply voltage,VDD_ANAx_1P8,-0.3,2.15,V,1
+Input/output voltage range,V_in/V_out,-0.3,OVDD^2 + 0.3,V,—
+Storage temperature range,T_STORAGE,-40,150,°C,—

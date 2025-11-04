@@ -1,0 +1,5 @@
+Symbol,Parameter,Min,Typ,Max,Unit
+V_IH,Logic 1 input voltage,740,—,—,mV
+V_IL,"Logic 0 input voltage, not in ULP state",—,—,550,mV
+V_IL_ULPS,"Logic 0 input voltage, ULP state",—,—,300,mV
+V_HYST,Input hysteresis,25,—,—,mV

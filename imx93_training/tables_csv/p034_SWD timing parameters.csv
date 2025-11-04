@@ -1,0 +1,10 @@
+Symbol,Description,Min,Max,Unit
+S0,SWD_CLK frequency,--,50,MHz
+S1,SWD_CLK cycle time,20,--,ns
+S2,SWD_CLK pulse width,10,--,ns
+S3,Input data setup time,5,--,ns
+S4,Input data hold time,5,--,ns
+S5,Output data hold valid time,5,14,ns
+S5,Output data valid time,--,14,ns
+S6,Output high impedance time,--,14,ns
+S7,Output data invalid time,0,--,ns

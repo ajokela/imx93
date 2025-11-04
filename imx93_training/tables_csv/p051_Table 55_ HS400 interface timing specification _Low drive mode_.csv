@@ -1,0 +1,8 @@
+ID,Parameter,Symbols,Min,Max,Unit
+SD2,Clock low time,tCL,3.3,—,ns
+SD3,Clock high time,tCH,3.3,—,ns
+SD4,Output skew from data of edge of SCK,tOSkew1,0.45,—,ns
+SD5,Output skew from edge of SCK to data,tOSkew1,0.45,—,ns
+SD5,Output skew from edge of SCK to data,tOSkew2,0.45,—,ns
+SD6,uSDHC input skew,tRQ,—,0.45,ns
+SD7,uSDHC hold skew,tRQH,—,0.45,ns

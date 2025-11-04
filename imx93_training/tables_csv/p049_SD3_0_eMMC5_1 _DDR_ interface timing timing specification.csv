@@ -1,0 +1,7 @@
+ID,Parameter,Symbols,Min,Max,Unit
+SD1,Clock Frequency (eMMC5.1 DDR),fPP,0,52,MHz
+SD1,Clock Frequency (SD5.1 DDR),fPP,0,52,MHz
+SD1,Clock Frequency (SD3.0 DDR),fPP,0,50,MHz
+SD2,uSD Output Output Delay,tOD,2.8,6.8,ns
+SD3,"uSDHC Input Setup Time / Outputs SD_CMD, SDx_DATAX (Reference to CLK)",tISU,2.4,-,ns
+SD4,"uSDHC Input Hold Time / Outputs SD_CMD, SDx_DATAX (Reference to CLK)",tIH,1.5,-,ns

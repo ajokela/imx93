@@ -1,0 +1,21 @@
+Parameter Description,Symbol,Min,Typ,Max,Unit,Comment
+Power supply for SoC logic logic and Arm core,VDD_SOC,0.85,0.90,0.95,V,"Power supply for SoC, overdrive mode"
+,,0.80,0.85,0.90,V,"Power supply for SoC, nominal mode"
+,,0.76,0.80,0.84,V,"Power supply for SoC, low drive mode"
+,,0.61,0.65,0.70,V,"Power supply for SoC, suspend mode"
+"Digital supply for PLLs, temperature sensor, LVCMSOS I/O, MIPI, and USB PHYs",VDD_ANA_0P8,0.76,0.80,0.84,V,
+,VDD_MIPI_0P8,,,,,
+,VDD_MIPI_0P8,,,,,
+,VDD_USB_0P8,,,,,
+"1.8 V supply for PLLs, eFuse, Temperature sensor, LVCMSOS voltage detect reference, ADC, 24 MHz XTAL, LVDS, MIPII, and USB PHYs",VDD_ANAx_1P8,1.71,1.80,1.89,V,2
+,VDD_LVDS_1P8,,,,,
+,VDD_MIPI_1P8,,,,,
+,VDD_USB_1P8,,,,,
+3.3 V supply for USB PHY,VDD_USB_3P3,3.069,3.30,3.45,V,
+,VDD2_3P3,1.06,1.10,1.14,V,
+Voltage supply DRAM PHY,VDD_DRAM,1.06,1.10,1.14,V,
+Voltage PHY supply for DRAM PHY I/O,VDDQ_DRAM,1.06,1.10,1.14,V,LPDDR4
+,,0.57,0.60,0.67,V,LPDDR4X
+I/O supply I/O and pre-driver supply for GPIO in BBSM bank,NVCC_BBSM_1P8,1.62,1.80,1.98,V,
+Power supply for GPIO when it is in 1.8 V mode,NVCC_AON,1.62,1.80,1.98,V,
+,NVCC_SD2,,,,,

@@ -1,0 +1,26 @@
+Subsystem,Features
+,Two Improved Inter Integrated Circuit (I3C) modules
+,Two 32-pin FlexIO modules
+,Three Ultra Secure Digital Host Host Controller (uSDHC) interfaces
+,Two Ethernet controllers (capable of simultaneous operation):
+,"  - One Gigabit Ethernet controller with support for Energy Efficient Ethernet (EEE), Ethernet AVB, and IEEE 1588"
+,"  - One Gigabit Ethernet controller with support for TSN in addition to EEE, Ethernet AVB, and IEEE 1588"
+,Eight SPI (SPSI) modules
+,Eight Low Power SPI (LPSPI) modules
+,Eight Low Power I2C modules
+,Eight Low Power Universal Asynchronous Receiver/Transmitter (LPUART) modules:
+,  - Programmable baud rates up to 5 Mbps
+,One Analog-to-Digital Converter (SAR ADC) module
+,  - 12-bit 4-channel with 1 MS/s
+Security,Trusted Resource Domain Controller (TRDC)
+,  - Supports 16 domains
+,"Arm® TrustZone® (TZ) architecture, including both Trustzone-A and Trustzone-M"
+,On-chip RAM (OCRAM) secure region protection using OCRAM controller
+,EdgeLock® secure enclave
+,Battery Backed Security Security Module (BBSM)
+,  - Secure real-time clock (RTC)
+System debug,Arm® CoreSight™ debug and trace technology
+,Embedded Trace FIFO (ETF) with 4 KB internal storage to provide trace buffering
+,Unified trace capability for dual core Cortex®-A5 and Cortex®-M33 CPUs
+,Cross Triggering Interface (CTI)
+,Support for 4-pin (JTAG) debug interface and SWD

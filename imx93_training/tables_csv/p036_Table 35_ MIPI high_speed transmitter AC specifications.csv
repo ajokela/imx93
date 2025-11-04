@@ -1,0 +1,5 @@
+Symbol,Parameter,Min,Typ,Max,Unit
+ΔV_CMTX(HF),Common-level variations above 450 MHz,—,—,15,mVRMS
+ΔV_CMTX(LF),Common-level variation between 50-450 MHz,—,—,25,mVPEAK
+ΔV_CMTX(LF),Common-level variation between 50-450 MHz,—,—,25,mVPEAK
+t_R and t_F^1,Rise Time and Fall Time (20% to 80%),100,—,0.35 x UI,ps

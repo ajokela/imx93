@@ -1,0 +1,6 @@
+Power supplies,Modules
+VDD_SOC,SoC synthesized DRAM controller digital logic
+VDD_ANA_0P8,DRAM PLL and PHY digital logic
+VDD_ANAX_1P8,DRAM 1.1 V PLL and PHY I/O analog supply circuitry
+VDD2_DDR,0.6 V DRAM PHY I/O supply for LPDDR4X
+VDDQ_DDR,0.6 V DRAM PHY I/O supply for LPDDR4X

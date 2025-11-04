@@ -1,0 +1,4 @@
+Pad name,RGMII,Alt mode,RMII,Alt mode,Direction
+ENET2_RD1,RGMII_RD1,Alt 0,RMII_RD1,Alt 0,I
+ENET2_RD2,RGMII_RD2,Alt 0,—,Alt 0,I
+ENET2_RD3,RGMII_RD3,Alt 0,—,Alt 0,I

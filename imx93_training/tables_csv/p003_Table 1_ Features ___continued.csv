@@ -1,0 +1,29 @@
+Subsystem,Features
+,"- NPU targets 8-bit and 16-bit integer RNN
+- Handles 8-bit weights"
+Image Sensor Sensor Interface (SI),"- Standard pixel formats commonly used in many camera input protocols
+- Programmable resolutions up to 2K
+- Image processing for:
+  - Supports up to 2K horizontal resolution
+  - Supports pixel rate up to 200 Mpixel/s
+  - Image downscaling via decimation and bi-phase filtering
+  - Color space conversion
+  - Interlaced to progressive conversion"
+On-chip memory,"- Boot ROM (256 KB) for Cortex®-A55
+- Boot ROM (256 KB) for Cortex®-M33
+- On-chip RAM (64 KB)"
+External memory interface,"- 16-bit DRAM interface:
+  - LPDDR4X/LPDDR4 with inline ECC
+  - Supports up to 2 Gbyte DDR memory space
+- Three Ultra Secure Digital Host Controller (uSDHC) interfaces:
+  - One eMMC 5.1 (8-bit) compliance with HS400 DDR signaling to support up to 400 MB/sec
+  - One SDXC (4-bit, no eMMC 5.1, with extended capacity)
+  - One SDIO (4-bit, SD/SDIO 3.01 compliance with 200 MHz SDR signaling and up to 100 MB/sec)
+- FlexSPI Flash with support for XIP (for Cortex®-A55 in low-power mode) and support for either one Octal SPI or Quad SPI FLASH device. It also supports both Serial NOR and Serial NAND flash using FlexSPI."
+Pixel Pipeline (PXP),"- BitBlit
+- Flexible image composition options—alpha, chroma key
+- Porter-Duff operation
+- Image rotation (90°, 180°, 270°)
+- Image resize
+- Color space resize
+- Multiple pixel format conversion support (RGB, YUV444, YUV422, YUV420, YUV400)"

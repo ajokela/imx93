@@ -1,0 +1,17 @@
+Parameters,FlexCAN (Classical and FD),Unit
+Maximum Baud Rate,8/8,Mbps
+TXD Rise time wcs,4/4,ns
+TXD Fall time wcs,4/4,ns
+TXD Rise time wcs,4/4,ns
+RXD Rise time wcs,4/4,ns
+RXD Fall time wcs,4/4,ns
+TXD,3.3/3.3,V
+RXD,3.3/3.3,V
+Internal delay wcs,100/50,ns
+TX PAD PAD delay wcs,25/25,ns
+TX PAD delay wcs,25/25,ns
+RX PAD delay wcs,10/10,ns
+TX routing delay wcs,5/5,ns
+RX routing delay wcs,5/5,ns
+Transceiver loop loop delay wcs,250/250,ns
+Total loop delay,395/345,ns

@@ -1,0 +1,9 @@
+Parameter,LPDDR4/LPDDR4X
+Number of Controllers,1
+Number of Channels,1
+Number of Chip Selects,2
+Bus Width,16-bit
+Maximum supported data rate,
+Low drive mode,1866 MT/s
+Nominal drive mode,2880 MT/s
+Overdrive mode,3733 MT/s

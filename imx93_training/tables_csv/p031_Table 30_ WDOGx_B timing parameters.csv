@@ -1,0 +1,2 @@
+ID,Parameter,Min,Max,Unit
+CC3,Duration of WDOG1_B Assertion,1,—,RTC_XTALI cycle

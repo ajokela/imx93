@@ -1,0 +1,5 @@
+Parameter,Symbol,Timing Parameter Range,Unit
+SPDIF_SR_CLK low period,srckpl,"['Min', 'Max']",ns
+Modulating Tx clock (SPDIF_ST_CLK) period,stclkp,"['40.0', '—']",ns
+SPDIF_ST_CLK high period,stclkph,"['16.0', '—']",ns
+SPDIF_ST_CLK low period,stckpl,"['16.0', '—']",ns

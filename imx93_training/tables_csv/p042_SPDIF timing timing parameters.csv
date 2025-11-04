@@ -1,0 +1,12 @@
+Parameter,Symbol,Timing Parameter Range,Unit
+"SPDIF_IN Skew: asynchronous inputs, no specs apply",—,"['—', '0.7']",ns
+SPDIF_OUT output (Load = 50 pf),—,"['—', '1.5']",ns
+Skew (Load = 50 pf),—,"['—', '24.2']",ns
+Transition rising rising,—,"['—', '31.3']",ns
+Transition falling falling,—,"['—', '31.3']",ns
+SPDIF_OUT output (Load = 30 pf),—,"['—', '1.5']",ns
+Skew (Load = 30 pf),—,"['—', '13.6']",ns
+Transition rising rising,—,"['—', '18.0']",ns
+Transition falling falling,—,"['—', '18.0']",ns
+Modulating Rx clock (SPDIF_SR_CLK) period,srck,40.0,—,ns
+SPDIF_SR_CLK high period,srckph,16.0,—,ns

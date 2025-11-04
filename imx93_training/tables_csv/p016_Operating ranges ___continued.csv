@@ -1,0 +1,3 @@
+Parameter supply Description,Symbol,Min,Typ,Max,Unit,Comment
+Power supply for GPIO when it is in 3.3 V mode,NVCC_GPIO,3.00,3.30,3.465,V,—
+Power supply for WAKEUP,NVCC_WAKEUP,3.00,3.30,3.465,V,—

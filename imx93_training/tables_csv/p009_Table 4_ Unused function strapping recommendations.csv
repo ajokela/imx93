@@ -1,0 +1,5 @@
+Function,Ball name,Recommendations if unused
+ADC,"ADC_IN0, ADC_IN1, ADC_IN2, ADC_IN3",Tie to ground
+TAM,"TAM_IN0, ADC_IN1, ADC_IN2, ADC_IN3",Tie to ground
+TAMPER,"TAMPER0, TAMPER1",Tie to ground
+LVDS,"VDD_LVDS8P, LVDS_CLK_P, LVDS_CLK_N, LVDS_Dx_P, LVDS_Dx_N, VDD_1P8, LVDS_CLK_P, LVDS_CLK_N, LVDS_Dx_P, LVDS_Dx_N",Tie to ground through 10 KΩ resistors

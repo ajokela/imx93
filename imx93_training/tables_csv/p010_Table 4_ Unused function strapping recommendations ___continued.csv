@@ -1,0 +1,2 @@
+Function,Ball name,Recommendations if unused
+Digital I/O supplies,"NVCC_GPIO, NVCC_WAKEUP, NVCC_AON, NVCC_SD2",Tie to unused through 10 KΩ resistors to ground if entire bank is not used

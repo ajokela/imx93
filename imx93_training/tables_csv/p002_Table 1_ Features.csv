@@ -1,0 +1,22 @@
+Subsystem,Features
+Cortex®-A55 MPCore platform,Two Cortex®-A5 processors operating up to 1.7 GHz
+,- 32 KB L1 Instruction Cache
+,- 32 KB L1 Data Cache
+,- 64 KB L2 cache
+,- 64 KB per-core L cache
+,- Media Processing Engine (MPE) with Arm® Neon™ technology supporting the Advanced Single Instruction Multiple Multiple Data architecture
+,- Floating Point Unit (FPU) with support of the Arm® VFPv4-D16 architecture
+,- Supports 64-bit Arm® v8-A architecture
+,- 256 KB cluster L3 cache
+,"- Parity/ECC protection on L1 cache, L2 cache, and TLB RAMs"
+Cortex®-M33 core platform,- Standby monitoring with Cortex®-A55 and other high-power modules
+,- Cortex®-M33 CPU operating up to 250 MHz
+,- Supports FPU up to 25 MHz
+,- Supports MPU
+,- Supports NVIC
+,- Supports FPB
+,- Supports DWT and ITM
+,- Two-way set-associative 16 KB System Cache with parity support
+,- Two-way set-associative 16 KB Code Cache with parity support
+,- 256 KB tightly coupled 1 memory (TCM) with parity support
+Neural Processing Unit (NPU),- Neural Network performance (256 MACs operating up to 1.0 GHz and 2 OPS/MAC)

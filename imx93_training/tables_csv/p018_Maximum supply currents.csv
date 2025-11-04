@@ -1,0 +1,14 @@
+Power rail,Max current,Unit
+VDD_SOC,2700,mA
+VDD_ANA,2700,mA
+VDD_ANA_0P8,50,mA
+VDD_ANAx_1P8 1,250,mA
+NVCC_BBSM_1P8,2,mA
+"NVCC_GPIO, NVCC_WAKEUP, NVCC_AON",I_max = N x C x V x x (0.5 x F),--
+"NVCC_GPIO, NVCC_WAKEUP, NVCC_AON",I_max = N x C x V x x (0.5 x F),--
+VDDQ_DDR,160,mA
+VDD2_DDR,525,mA
+VDD_MIPI_0P8 (for MIPI CSI-2 2-lane Rx PHY),18,mA
+VDD_MIPI_0P8 (for MIPI-DSI 4-lane Tx PHY),33,mA
+VDD_MIPI_1P8 (for MIPI CSI-2 2-lane Tx PHY),3.5,mA
+VDD_MIPI_1P8 (for MIPI CSI-2 2-lane Rx PHY),2.5,mA

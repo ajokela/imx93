@@ -1,0 +1,11 @@
+Symbol,Parameter,Min,Typ,Max,Unit
+T_RLP/T_FLP1,15% to 85% Rise Time and Fall Time,--,--,25,ns
+"T_REOT2,3",30% to 85% Rise Time and Fall Time,--,--,35,ns
+T_LP-PULSE-TX4,Pulse width of LP exclusive-OR clock: First LP exclusive-OR clock pulse after Stop state or last pulse before Stop state,40,--,--,ns
+T_LP-PULSE-TX4,Pulse width of LP exclusive-OR clock: All other pulses,20,--,--,ns
+T_LP-PER-TX,Period of LP exclusive-OR clock,90,--,--,ns
+"δV/δtSR1,5,6,7",Slew Rate @ CLOAD = 0 pF,25,--,500,mV/ns
+"δV/δtSR1,5,6,7",Slew Rate @ CLOAD = 5 pF,25,--,300,mV/ns
+"δV/δtSR1,5,6,7",Slew Rate @ CLOAD = 20 pF,25,--,250,mV/ns
+"δV/δtSR1,5,6,7",Slew Rate @ CLOAD = 70 pF,25,--,150,mV/ns
+C_LOAD,Load Capacitance,0,--,70,pF

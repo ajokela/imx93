@@ -1,0 +1,5 @@
+Number,Symbol,Description,Min.,Max.,Units,Note
+1,fSCK,Frequency of LPSPI clock,0,30,MHz,
+2,tSCK,SCK period,2 x tperiph,30,ns,3
+2,tSCK,SCK period,2 x tperiph,-,ns,3
+3,tLead,Enable lead time,1,-,tperiph,

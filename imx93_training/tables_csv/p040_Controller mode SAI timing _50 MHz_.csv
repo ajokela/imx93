@@ -1,0 +1,12 @@
+Num,Characteristic,Min,Max,Unit
+S1,SAI_MCLK cycle time,20,—,ns
+S2,SAI_MCLK pulse width high/low,40%,60%,MCLK period
+S3,SAI_BCLK cycle time,20,—,ns
+S4,SAI_BCLK pulse width high/low,40%,60%,BCLK period
+S5,SAI_BCLK to SAI_FS output valid,—,3,BCLK period
+S5,SAI_BCLK to SAI_FS output valid,—,3,ns
+S6,SAI_BCLK to SAI_FS output invalid,-2,—,ns
+S7,SAI_BCLK to SAI_TXD valid,—,3,ns
+S8,SAI_BCLK to SAI_TXD invalid,-2,—,ns
+S9,SAI_RXD/SAI_FS input setup before SAI_BCLK,3,—,ns
+S10,SAI_RXD/SAI_FS input hold after SAI_BCLK,2,—,ns

@@ -1,0 +1,19 @@
+Symbol,Description,Min,Typ,Max,Unit,Notes
+V_ADIN,Input voltage,V_GND,-,V_DDA,V,1
+f_AD_CK,ADC clock frequency,20,-,80,MHz,-
+C_sample,Sample cycles,5.5,-,-,Cycle,-
+C_compare,Fixed compare cycles,-,58,-,Cycle,-
+C_conversion,Conversion cycles,C_conversion = C_sample + C_compare,-,-,Cycle,-
+C_AD,ADC input cycles,C_conversion = C_sample + C_compare,-,7,pF,2
+C_AD_INPUT,ADC input capacitance,-,-,7,pF,2
+R_AD_INPUT,ADC input series resistance,-,-,1.25,KΩ,-
+DNL,ADC differential nonlinearity,-,±2,-,LSB,3
+INL,ADC integral nonlinearity,-,±6,-,LSB,3
+R_AS,Analog source source resistance,-,-,5,KΩ,-
+Bandgap,Output voltage ready time,-,1,-,μs,4
+Bandgap,for bandgap,-,1,-,μs,"5,6,7,8"
+ENOB,"Effective number of bits: Single-ended mode (11 x 11 mm package, PWM)",-,9.8,-,bit,"5,6,7,8"
+ENOB,"Effective number of bits: Single-ended mode (11 x 11 mm package, PWM)",-,9.4,-,bit,-
+ENOB,"Effective number of bits: Single-ended mode (11 x 11 mm package, PFM)",-,9.4,-,bit,-
+ENOB,"Effective number of bits: Single-ended mode (9 x 9 mm package, PWM)",-,9.2,-,bit,-
+ENOB,"Effective number of bits: Single-ended mode (9 x 9 mm package, PFM)",-,8.5,-,bit,-

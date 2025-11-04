@@ -1,0 +1,5 @@
+Symbol,Parameter,Min,Max,Unit
+—,Frequency of operation,—,133,MHz
+T_ck,SCK clock period,7.5,—,ns
+T_DVO,Output data valid time,—,2,ns
+T_DHO,Output data hold time,-2,—,ns

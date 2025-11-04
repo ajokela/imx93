@@ -1,0 +1,2 @@
+Symbol,Description,Min,Typ,Max,Unit,Notes
+tIDS,Input delay delay skew between any two FlexIO_Dx pins between any two FlexIO_Dx pins configured as inputs that are sampled on the same internal clock cycle,0,—,12,ns,3

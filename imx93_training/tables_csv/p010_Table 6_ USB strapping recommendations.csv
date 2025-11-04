@@ -1,0 +1,8 @@
+Function,Ball name,Recommendations
+Only USB1 used,"VDD_USB_3P3, VDD_USB_1P8, VDD_USB_0P8",Supply
+Only USB1 used,"USB2_VBUS, USB2_D_P, USB2_D_N, USB2_ID, USB2_TXRTUNE",Not connected
+Only USB2 used,"VDD_USB_3P3, VDD_USB_1P8, VDD_USB_0P8",Supply
+Only USB2 used,"USB1_VBUS, USB1_D_P, USB1_D_N, USB1_ID, USB1_TXRTUNE",Not connected
+Neither USB1 nor USB2 used,"VDD_USB_3P3, VDD_USB_1P8, VDD_USB_0P8",Tie to ground
+Neither USB1 nor USB2 used,"USB1_VBUS, USB1_D_P, USB1_D_N, USB1_ID, USB1_TXRTUNE",Not connected
+Neither USB1 nor USB2 used,"USB2_VBUS, USB2_D_P, USB2_D_N, USB2_ID, USB2_TXRTUNE",Not connected

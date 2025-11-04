@@ -1,0 +1,4 @@
+Symbol,Parameter,Min,Typ,Max,Unit
+ΔV_CM RX(HF)1,Common mode interference beyond 450 MHz,--,--,50,mV
+ΔV_CM RX(LF),Common mode interference between 50 and 450 MHz,-25,--,25,mV
+C_CM,Common mode termination,--,--,60,pF

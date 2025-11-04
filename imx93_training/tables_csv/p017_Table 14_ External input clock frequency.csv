@@ -1,0 +1,2 @@
+Parameter Description,Symbol,Min,Typ,Max,Unit
+RTC_XTALI Oscillator,f_ckil,—,32.768,—,kHz

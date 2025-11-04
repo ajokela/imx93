@@ -1,0 +1,3 @@
+Parameter supply Description,Symbol,Min,Typ,Max,Unit,Comment
+Junction temperature — Automotive,TJ,-40,—,+125,°C,"See the application note, i.MX 93 Product Lifetime Usage Usage Estimates for information on product lifetime (power-on hours) for this processor."
+Ambient temperature — Automotive,Ta,-40,—,+85,°C,"See the application note, i.MX 93 Product Lifetime Usage Usage Estimates for information on product lifetime (power-on hours) for this processor."

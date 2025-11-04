@@ -1,0 +1,29 @@
+Subsystem,Features
+,- Standard 2D-DMA operation
+LCDIF Display Display Controller,"The LCDIF can drive any of three displays:
+- MIPI DSi: up to 1920x1200p60
+- LVDS Tx: up to 1366x768p60 or 1280x800p60
+- Parallel display: up to 1366x768p60 or 1280x800p60"
+MIPI CSI-2 Interface,"One 2-lane MIPI CSI-2 camera input:
+- Complaint with MIPI CSI-2 specification v1.3 and MIPI D-PHY specification v1.2
+- Supports up to 2
+- Supports 80 Rx data lanes (plus 1 Rx clock lane)
+- Supports 80 Mbps – 1.5 Gbps data rate per lane in high speed operation
+- Supports 10 Mbps data rate in low power operation"
+MIPI DSI Interface,"One 4-lane MIPI DSI display with data supplied by the LCDIF
+- Compliant with MIPI DSI specification v1.2 and MIPI D-PHY specification v1.2
+- Capable of resolutions DSI achievable with a 200 MHz pixel clock and active pixel rate of 140 Mpixel/s with 24-bit RGB.
+- Supports 80 Mbps – 1.5 Gbps data rate per lane in high speed operation
+- Supports 10 Mbps data rate in low power operation"
+Audio,"- Three SAI interfaces:
+  - SAI1 supports 2-lane and SAI3 supports 1 lane
+  - SAI2 supports 4 lanes
+  - SAI2 and SAI3 support glue-less switching between PCM and stereo DSD operation
+- One SPDIF supports raw capture mode that can save all the incoming bits into audio buffer
+- 24-bit PDM supports up to 8 microphones (4 lanes)"
+GPIO and input/output multiplexing,"- General-purpose input/output (GPIO) modules with interrupt capability
+- Input/output multiplexing controller (IOMUXC) to provide centralized pad control"
+Power management,"- Temperature sensor with programmable trip points
+- Flexible power domain partitioning with internal power switches to support efficient power management"
+Connectivity,"- Two USB 2.0 controllers and PHYs interfaces
+- Two Controller Area Network (FlexCAN) modules, each optionally supporting flexible data-rate (FD)"

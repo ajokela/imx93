@@ -1,0 +1,3 @@
+ID,Parameter,Symbols,Min,Max,Unit
+SD5,uSDHC Output Delay,t_OD,-1.6,1,ns
+SD8,uSDHC Input Data Data/Window,t_ODW,0.475 x t_CLK,—,ns

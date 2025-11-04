@@ -1,0 +1,6 @@
+Parameter description,Rating,Reference,Comment
+Electrostatic Discharge (ESD),Human Body Model (HBM),±1000 V,JS-001,—
+Electrostatic Discharge (ESD),Charged Device Model (CDM),±250 V,JS-002,—
+Latch-up (LU),Immunity Device level Model (CDM),±250 V,JS-002,—
+Latch-up (LU),Immunity Class I: @ 25°C ambient temperature,A,JESD78,—
+Latch-up (LU),Immunity Class II: @ 125°C ambient temperature,A,JESD78,—

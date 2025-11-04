@@ -1,0 +1,8 @@
+ID,Parameter,Symbols,Min,Max,Unit
+SD1,Clock frequency,f_PP,0,200,MHz
+SD2,Clock low time,t_CL,2.2,-,ns
+SD3,Clock high time,t_CH,2.2,-,ns
+SD4,Output skew from Data of edge of SCK,t_QSkew1,0.45,-,ns
+SD5,Output skew from SCK to Data of edge,t_QSkew2,0.45,-,ns
+SD6,uSDHC input skew,t_RQ,-,0.45,ns
+SD7,uSDHC hold skew,t_RQH,-,0.45,ns

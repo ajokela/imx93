@@ -1,0 +1,7 @@
+ID,signal,Characteristic,Min.,Max.,Unit
+M16,ENET_CLK pulse width high,ENET_CLK pulse width high,35%,65%,RMII_REF_CLK period
+M17,RMII_REF_CLK pulse width low,RMII_REF_CLK pulse width low,35%,65%,RMII_REF_CLK period
+M18,"RMII_REF_CLK to ENET0_TXD[1:0], ENET_TX_EN invalid","RMII_REF_CLK to ENET0_TXD[1:0], ENET_TX_EN invalid",2,—,ns
+M19,"RMII_REF_CLK to ENET0_TXD[1:0], ENET_TX_EN valid","RMII_REF_CLK to ENET0_TXD[1:0], ENET_TX_EN valid",—,14,ns
+M20,"ENET_RX_DATA[1:0], ENET_CRS_DV, ENET_RX_ER to RMII_REF_CLK setup","ENET_RX_DATA[1:0], ENET_CRS_DV, ENET_RX_ER to RMII_REF_CLK setup",4,—,ns
+M21,"RMII_REF_CLK to ENET_RX_DATA[1:0], ENET_CRS_DV, ENET_RX_ER hold","RMII_REF_CLK to ENET_RX_DATA[1:0], ENET_CRS_DV, ENET_RX_ER hold",2,—,ns

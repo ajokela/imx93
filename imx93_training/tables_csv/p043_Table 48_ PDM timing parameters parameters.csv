@@ -1,0 +1,3 @@
+Parameter,Value
+"trs, tfs",≤ floor (kxCLKDIV) - 1
+"trh, tfh",≥ 0

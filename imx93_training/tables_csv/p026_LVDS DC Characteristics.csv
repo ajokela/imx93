@@ -1,0 +1,8 @@
+Parameter,Symbol,Test Conditions,Min,Typ,Max,Unit
+Output Differential Voltage,VOD,RLoad = 100 Ω between Pad P and Pad N,250,350,450,mV
+Output High Voltage,VOH,RLoad = 100 Ω between Pad P and Pad N,1.25,—,1.6,V
+Output Low Voltage,VOL,RLoad = 100 Ω between Pad P and Pad N,0.9,—,1.25,V
+Offset common mode Voltage,VCM,—,1.125,1.2,1.375,V
+Tri-state I/O supply supply current,Icc-ovdd,VIN=OVDD or 0,0.016,—,1700,nA
+Tri-state core supply supply current,Icc-vddi,VIN=VDDI or 0,—,—,1500,nA
+Power Supply current,Icc,"VIN=OVDD or 0, RLoad=100 Ω",—,—,5,mA

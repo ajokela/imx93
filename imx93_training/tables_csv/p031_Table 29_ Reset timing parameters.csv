@@ -1,0 +1,2 @@
+ID,Parameter,Min,Max,Unit
+CC1,Duration of POR_B to be qualified as valid.,1,—,RTC_XTALI cycle

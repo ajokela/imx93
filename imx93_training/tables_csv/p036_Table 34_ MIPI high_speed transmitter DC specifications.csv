@@ -1,0 +1,9 @@
+Symbol,Parameter,Min,Typ,Max,Unit
+V_CMTX^1,High Speed Transmit Static Common Common Mode Voltage,150,200,250,mV
+"|ΔV_CMTX|(1,0)",V_CMTX mismatch when Output is Differential-1 or Differential-0,—,—,5,mV
+|V_OD|^1,High Speed Transmit Differential Voltage,140,200,270,mV
+|ΔV_OD|,V_OD mismatch when when Output is Differential-1 or Differential-0,—,—,14,mV
+V_OHHS,High Speed Output High Voltage,—,—,360,mV
+V_OHHS,High Single Ended Output High Voltage,—,—,60,Ω
+Z_OS,Single Ended Output Output Impedance,40,50,62.5,Ω
+ΔZ_OS,Single Ended Output Output Impedance Mismatch,—,—,10,%

@@ -1,0 +1,14 @@
+Temperature Tj support,Family,Temperature Tj support,Cortex-A maximum CPU frequency,Package type,Reserved,Special Fuse
+Qualification Level,93,+,#,$,%
+Samples,i.MX9300,Commercial: 0°C to +85°C,1.7 GHz,"Can be used to designate special versions, e.g., reduced GPU performance",No special fuse
+Mass Production,93,Industrial: -40°C to +105°C,900 MHz,No additional information required,A
+Special,93,Extended Industrial: -40°C to +125°C,M,Reserved,X
+,93,Automotive: -40°C to +125°C,D,Full featured with GDET enabled,B
+Sub-family,11 x 11 mm,"14 x 14 mm, 0.65 mm pitch",VT,C
+With NPU (Full-featured),14 x 14 mm,"11 x 11 mm, 0.5 mm pitch",VV,Z
+Without NPU,9 x 9 mm,"9 x 9 mm, 0.5 mm pitch, FCBGA208",VX,
+Reduced NPU,,,,
+#Cortex-A cores,5,3,0,
+Dual-core,2,3,0,
+Single-core,1,1,,
+Silicon Revision,Rev. 1.0,Rev. 2.0,Rev. 3.0,

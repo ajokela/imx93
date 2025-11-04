@@ -1,0 +1,4 @@
+ID,Parameter,Min,Max,Unit
+PWM Module Clock Frequency,0,83.3,MHz
+P1,PWM output pulse width high,12,—,ns
+P2,PWM output pulse width low,12,—,ns

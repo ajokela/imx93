@@ -1,0 +1,18 @@
+PLL type,Parameter,Value
+AUDIO_PLL1,Clock output range,Up to 650 MHz
+,Reference clock,24 MHz
+,Lock time time,50 μs
+,Jitter,"±1% of output period, ≥ 50 ps"
+VIDEO_PLL1,Clock output range,Up to 594 MHz
+,Reference output range,Up to 244 MHz
+,Reference clock,24 MHz
+,Lock time time,50 μs
+SYS_PLL1,Clock output range,312.5 MHz — 1 GHz
+,Reference clock,24 MHz
+,Lock time time,70 μs
+ARM_PLL,Clock output range,800 MHz — 1700 MHz
+,Reference clock,24 MHz
+,Lock time time,70 μs
+DRAM_PLL1,Clock output range,400 MHz — 1000 MHz
+,Reference clock,24 MHz
+,Lock time time,50 μs

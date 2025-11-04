@@ -1,0 +1,9 @@
+ID,Parameter,Symbols,Min,Max,Unit
+SD1,Clock Frequency Period,t_CLK,5,-,ns
+SD2,Clock Low Time,t_CL,2.2,-,ns
+SD3,Clock High Time,t_CH,2.2,-,ns
+SD4,uSDHC Output Delay,t_OD,-3,1,ns
+SD5,uSDHC Output Delay,t_OD,-1.6,1,ns
+SD6,uSDHC Input Setup Time,t_ISU,2.4,-,ns
+SD7,uSDHC Input Hold Time,t_IH,1.5,-,ns
+SD8,uSDHC Input Data Window,t_ODW,0.5 x t_CLK,-,ns

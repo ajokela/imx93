@@ -1,0 +1,5 @@
+Symbol,Description,Min.,Max.,Unit
+T_cyc,Clock cycle duration,7.2,8.8,ns
+T_skew,Data to clock output skew at transmitter,-500,500,ps
+T_skewT,Data to clock output skew at transmitter,-500,500,ps
+T_skewR,Data to clock input skew at receiver,1,2.6,ns

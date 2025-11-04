@@ -1,0 +1,11 @@
+Parameter description,Symbol,Min,Max,Unit,Notes
+Core supplies input input voltages,VDD_SOC,-0.3,1.15,V,—
+GPIO supply voltage,"NVCC_GPIO, NVCC_WAKEUP, NVCC_AON",-0.3,3.8,V,—
+I/O supply for SD2,NVCC_SD2,-0.3,3.8,V,—
+I/O PHY SD2,NVCC_SD2,-0.3,3.8,V,—
+DDR PHY supply voltage,VDD2_DDR,-0.3,1.575,V,—
+DDR I/O supply voltage,VDDQ_DDR,-0.3,1.575,V,—
+I/O supply and I/O Pre-driver supply for BBSM bank,NVCC_BBSM_1P8,-0.3,2.15,V,—
+USB VBUS input detected,USB1_VBUS,-0.3,3.95,V,—
+USB VBUS input detected,USB2_VBUS,-0.3,3.95,V,—
+Power for USB OTG PHY,VDD_USB_0P8,-0.3,1.15,V,—

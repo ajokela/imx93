@@ -1,0 +1,8 @@
+Symbol,Parameter,Min,Max,Unit
+—,Frequency of operation,—,133,MHz
+T_ck,SCK clock period,7.5,—,ns
+T_DVO,Output data valid time,—,2.75,ns
+T_DHO,Output data hold time,0.9,—,ns
+T_CSS and T_CSH,Chip select output setup time,(T_css + 0.5) x T_ck - 0.9,—,ns
+T_CSS,Chip select output setup time,(T_css + 0.5) x T_ck - 0.9,—,ns
+T_CSH,Chip select output hold time,(T_csh + 0.5) x T_ck - 0.9,—,ns

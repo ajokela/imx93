@@ -1,0 +1,3 @@
+Symbol,Parameter,Min,Typ,Max,Unit
+V_IHCD,Logic 1 contention threshold,450,—,—,mV
+V_ILCD,Logic 0 contention threshold,—,—,200,mV

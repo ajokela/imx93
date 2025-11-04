@@ -1,0 +1,9 @@
+ID,Parameter,Symbol,Min,Max,Unit
+L1,LCD pixel clock frequency,fCLK(LCD),-,80,MHz
+L,LCD pixel clock frequency,fCLKH(LCD),-,80,MHz
+L2,LCD pixel clock high (falling edge capture),tCLKH(LCD),5,-,ns
+L3,LCD pixel clock low (rising edge capture),tCLKL(LCD),5,-,ns
+L4,LCD pixel clock high to data valid valid (falling edge capture),td(CLKH-DV),-1.5,1.5,ns
+L5,LCD pixel clock low to data valid (rising edge capture),td(CLKL-DV),-1.5,1.5,ns
+L6,LCD pixel clock high to control signal valid (falling edge capture),td(CLKH-CTRLV),-1.5,1.5,ns
+L7,LCD pixel clock low to control signal valid (rising edge capture),td(CLKL-CTRLV),-1.5,1.5,ns

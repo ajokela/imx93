@@ -1,0 +1,5 @@
+Symbol,Parameter,Min,Max,Unit
+—,Frequency of operation,—,200,MHz
+T_SCKD,Time from SCK to data valid,—,—,ns
+T_SCKDQS,Time from SCK to DQS,—,—,ns
+T_SCKD - T_SCKDQS,Time delta between T_SCKD and T_SCKDQS,-0.6,0.6,ns

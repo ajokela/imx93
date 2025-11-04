@@ -1,0 +1,4 @@
+ID,Parameter,Symbols,Min,Max,Unit
+SD1,Clock Frequency Period,tCLK,5.0,—,ns
+SD2,Clock Low Time,tCL,2.2,—,ns
+SD3,Clock High Time,tCH,2.2,—,ns

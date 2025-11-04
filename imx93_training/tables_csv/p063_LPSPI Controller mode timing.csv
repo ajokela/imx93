@@ -1,0 +1,12 @@
+Number,Symbol,Description,Min.,Max.,Units,Note
+1,fSCK,Frequency of LPSPI clock³,—,30,MHz,4
+,,,—,60,MHz,5
+2,tSCK,SCK period period,2 x tperiph,—,ns,6
+3,tLead,Enable lead lead time,1,—,tperiph,—
+4,tLag,Enable lag lag time,1,—,tperiph,—
+,,Clock (SCK) high or low time,tSCK / 2 - 3,tSCK / 2 + 3,ns,—
+5,tWSCK,Clock (SCK) high or low time,tSCK / 2 - 3,tSCK / 2 + 3,ns,—
+6,tSU,Data setup time (inputs),8,—,ns,"7,8"
+7,tHI,Data hold time (inputs),0,—,ns,7
+8,tV,Data valid (after SCK edge),—,2.5,ns,—
+9,tHO,Data hold time (outputs),-2.5,—,ns,—

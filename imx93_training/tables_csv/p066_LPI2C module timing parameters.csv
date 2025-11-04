@@ -1,0 +1,8 @@
+Symbol,Description,Min,Max,Unit,Notes
+fSCL,SCL clock frequency,0,100,kHz,2
+,Standard mode (Sm),0,100,kHz,
+,Fast mode (Fm),0,400,kHz,
+,Fast mode Plus (Fm+),0,1000,kHz,
+,High mode Plus (Fm+),0,1000,kHz,
+,High speed mode (Hs-mode),0,3400,kHz,
+,Ultra Fast mode (UFm),0,5000,kHz,

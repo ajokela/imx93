@@ -1,0 +1,4 @@
+Symbol,Parameter Description,MIn,Typ,Max,Unit
+fXTAL,Frequency (crystal mode) 1,--,32.768,--,kHz
+CLOAD,Cload,--,12.5,--,pF
+ESR,ESR,--,--,90,KΩ

@@ -1,0 +1,3 @@
+Symbol,Parameter,Min,Max,Unit
+T_CSS,Chip select output setup time,(T_CS + 0.5) x T_ck - 2,—,ns
+T_CSH,Chip select output hold time,(T_CSH x T_ck) - 2,—,ns

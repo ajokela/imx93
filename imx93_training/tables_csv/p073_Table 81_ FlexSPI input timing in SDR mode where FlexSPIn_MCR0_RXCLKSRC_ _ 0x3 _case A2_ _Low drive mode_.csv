@@ -1,0 +1,6 @@
+Symbol,Parameter,Value,Unit
+,Frequency of operation,133,MHz
+T_SCKD,Time from SCK to data valid,--,ns
+T_SCKDQS,Time from SCK to DQS,--,ns
+T_SCKD - T_SCKDQS,Time delta between T_SCKD and T_SCKDQS,-2,2,ns
+T_SCKD - T_SCKDQS,Time delta between T_SCKD and T_SCKDQS,-2,2,ns

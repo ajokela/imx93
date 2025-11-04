@@ -1,0 +1,5 @@
+Symbol,Parameter,Min,Typ,Max,Unit
+"eSPIKE^1,2",Input pulse rejection,—,—,300,V.ps
+T_MIN-RX^3,Minimum pulse width response,20,—,—,ns
+V_INT,Peak Interference amplitude,—,—,200,mV
+f_INT,Interference frequency,450,—,—,MHz

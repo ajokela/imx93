@@ -1,0 +1,9 @@
+Symbol,Description,Min,Typ,Max,Unit,Condition
+fSCL,SCL Clock Frequency,0.01,12.5,12.9,MHz,FSCL = 1 / (tDIG_L + tDIG_H)
+tDIG_L,"SCL Clock Low Period 1,2",32,—,—,ns,—
+tDIG_H,SCL Clock High Period 1,32,—,—,ns,—
+tSCO,"Clock in to Data Out for 3,4",—,—,12,ns,—
+tCR,SCL Clock Rise Time 5,—,—,150e06 * 1 / fSCL (capped at 60),ns,—
+tCF,SCL Clock Fall Time 5,—,—,150e06 * 1 / fSCL (capped at 60),ns,—
+thD_PP,"SDA Signal Data Hold in Push-Pull Mode, Slave 6",1,—,—,ns,Applicable for slave and master modes
+tSU_PP,SDA Signal Signal Data Setup in Push-Pull Mode,3,—,N/A,ns,Applicable for slave and master loopback modes

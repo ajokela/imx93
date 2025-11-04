@@ -1,0 +1,15 @@
+ID,Parameter,Symbols,Min,Max,Unit
+SD1,Clock Frequency (Low Speed),f_L^3,0,400,kHz
+SD1,Clock Frequency (SD/SDIO Full Speed/High Speed),f_PP^4,0,250/500,kHz
+SD1,Clock Frequency (SDIO Full Speed/High Speed),f_PP^4,0,25/50,MHz
+SD1,Clock Frequency (MMC Full Speed/High Speed),f_PP^5,0,20/52,MHz
+SD1,Clock Frequency (Identification Mode),f_OD,100,400,kHz
+SD2,Clock Low Time,t_WL,7,-,ns
+SD3,Clock High Time,t_WH,7,-,ns
+SD4,Clock Rise Time,t_RH,-,3,ns
+SD4,Clock Rise Time,t_TLH,-,3,ns
+SD5,Clock Fall Time,t_THL,-,3,ns
+SD6,uSDHC Output Delay,t_CD,-6.6,3.6,ns
+SD7,uSDHC Input Setup Time,t_SU,2.5,-,ns
+SD8,uSDHC Input Hold Time,t_SU,2.5,-,ns
+SD8,uSDHC Input Hold Time,t_H,1.5,-,ns

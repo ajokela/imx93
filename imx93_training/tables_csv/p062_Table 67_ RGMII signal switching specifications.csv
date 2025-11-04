@@ -1,0 +1,3 @@
+Symbol,Description,Min.,Max.,Unit
+Duty_G,Duty cycle for Gigabit,45,55,%
+Duty_T,Duty cycle for 10/100T,40,60,%

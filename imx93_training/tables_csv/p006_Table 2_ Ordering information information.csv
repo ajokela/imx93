@@ -1,0 +1,21 @@
+Part number,Part number differentiator (A55),Number of Cores,Max speed,NPU,GDET,Camera,Display,Connectivity,Audio,DDR,Package
+MIMX9352A VTXMAC,5,2,1.7 GHz,NPU,Disable,"- 2-lane 1080p30 MIPI CSI
+- Parallel camera","- 4-lane 1080p60 MIPI6
+- Parallel display","- 2x GbE
+- 2x USB 2.0",7x I2S TDM,3.7 GT/s,"14 x 14 mm, 0.65 mm pitch"
+MIMX9352A VTXMBC,5,2,1.7 GHz,NPU,Enable,"- 2-lane 1080p30 MIPI CSI
+- Parallel camera","- 4-lane 1080p60 MIPI6
+- Parallel display","- 2x GbE
+- 2x USB 2.0",7x I2S TDM,3.7 GT/s,"14 x 14 mm, 0.65 mm pitch"
+MIMX9351A VTXMAC,5,1,1.7 GHz,NPU,Disable,"- 2-lane 1080p30 MIPI CSI
+- Parallel camera","- 4-lane 1080p60 MIPI6
+- Parallel display","- 2x GbE
+- 2x USB 2.0",7x I2S TDM,3.7 GT/s,"14 x 14 mm, 0.65 mm pitch"
+MIMX9332A VTXMAC,3,2,1.7 GHz,—,Disable,"- 2-lane 1080p30 MIPI CSI
+- Parallel camera","- 4-lane 1080p60 MIPI6
+- Parallel display","- 2x GbE
+- 2x USB 2.0",7x I2S TDM,3.7 GT/s,"14 x 14 mm, 0.65 mm pitch"
+MIMX9331A VTXMAC,3,1,1.7 GHz,—,Disable,"- 2-lane 1080p30 MIPI CSI
+- Parallel camera","- 4-lane 1080p60 MIPI6
+- Parallel display","- 2x GbE
+- 2x USB 2.0",7x I2S TDM,3.7 GT/s,"14 x 14 mm, 0.65 mm pitch"

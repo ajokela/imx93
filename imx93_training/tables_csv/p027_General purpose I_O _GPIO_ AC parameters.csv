@@ -1,0 +1,10 @@
+Symbol,Description,Min,Typ,Max,Unit,Condition
+tR,TX rise time,3950,—,5950,ps,"Slew rate FSEL1 = 11b, Fast Slew Rate (1.62 V, 1.8 V, 1.98 V), Drive strength strength x1"
+tF,TX fall time,4140,—,5600,ps,"Slew rate FSEL1 = 11b, Fast Slew Rate (1.62 V, 1.8 V, 1.98 V), Drive strength strength x1"
+tR,TX rise time,1890,—,2820,ps,"Slew rate FSEL1 = 11b, Fast Slew Rate (1.62 V, 1.8 V, 1.98 V), Drive strength strength x2"
+tF,TX fall time,1790,—,2560,ps,"Slew rate FSEL1 = 11b, Fast Slew Rate (1.62 V, 1.8 V, 1.98 V), Drive strength strength x2"
+tR,TX rise time,675,—,1950,ps,"Slew rate FSEL1 = 11b, Fast Slew Rate (1.62 V, 1.8 V, 1.98 V), Drive strength strength x3"
+tF,TX fall time,584,—,1730,ps,"Slew rate FSEL1 = 11b, Fast Slew Rate (1.62 V, 1.8 V, 1.98 V), Drive strength strength x3"
+tR,TX rise time,521,—,1320,ps,"Slew rate FSEL1 = 11b, Fast Slew Rate (1.62 V, 1.8 V, 1.98 V), Drive strength strength x4"
+tF,TX fall time,442,—,748,ps,"Slew rate FSEL1 = 11b, Fast Slew Rate (1.62 V, 1.8 V, 1.98 V), Drive strength strength x4"
+tR,TX rise time,454,—,742,ps,"Slew rate FSEL1 = 11b, Fast Slew Rate (1.62 V, 1.8 V, 1.98 V), Drive strength strength x5"

@@ -1,0 +1,9 @@
+Function,Ball name,Recommendations
+Only MIPI_CSI used,"VDD_MIPI_0P8, VDD_MIPI_1P8",Supply
+Only MIPI_CSI used,"MIPI_DS1_CLK_P, MIPI_DS1_CLK, MIPI_DS1_Dx_P, MIPI_DS1_Dx_N",Not connected
+Only MIPI_DSI used,"VDD_MIPI_0P8, VDD_MIPI_1P8",Supply
+Only MIPI_DSI used,"MIPI_CS1_CLK_P, MIPI_CS1_CLK_N, MIPI_CS1_Dx_P, MIPI_CS1_Dx_N",Not connected
+Neither MIPI_CSI nor MIPI_DSI used,"VDD_MIPI_0P8, VDD_MIPI_1P8",Tie to ground
+Neither MIPI_CSI nor MIPI_DSI used,"MIPI_CS1_CLK_P, MIPI_CS1_CLK_N, MIPI_CS1_Dx_P, MIPI_CS1_Dx_N",Not connected
+Neither MIPI_CSI nor MIPI_DSI used,"MIPI_DS1_CLK_P, MIPI_DS1_CLK_N, MIPI_DS1_Dx_P, MIPI_DS1_Dx_N",Not connected
+Neither MIPI_CSI nor MIPI_DSI used,MIPI_REXT,Tie to ground

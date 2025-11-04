@@ -1,0 +1,3 @@
+Rating,Board Type,Symbol,Values,Unit
+Junction to Ambient Thermal Resistance,"JESD51-9, 2s2p",R_θJA,21.7,°C/W
+Junction-to-Top of Package Thermal Resistance,"JESD51-9, 2s2p",Ψ_JT,0.1,°C/W

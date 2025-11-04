@@ -1,0 +1,11 @@
+Parameter,Symbol,Test Conditions,Min,Typ,Max,Unit
+Lane skew,tSKew,Rload = 100 Ω,—,0.25,—,ns
+Lane skew,tSKew,Cload = 2 pF,—,—,0.3,Unit Interval (UI)
+Transition Low to High time,tTLH,Cload = 2 pF,—,—,0.3,Unit Interval (UI)
+Transition High to Low time,tTHL,Cload = 2 pF,—,—,0.3,Unit Interval (UI)
+Operating data rate,f,—,—,—,560,Mbps
+Offset peak to peak voltage imbalance,VOSPP,—,—,—,150,mV
+Tri-state I/O supply current imbalance,Icc-ovdd,VIN=OVDD or 0,0.016,—,1700,nA
+Tri-state I/O core supply current imbalance,Icc-vddi,VIN=VDDI or 0,—,—,1500,nA
+Tri-state core supply supply current,Icc-vddi,VIN=VDDI or 0,—,—,1500,nA
+Power Supply Supply current,Icc,VIN=OVDD or 0,—,—,5,mA

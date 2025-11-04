@@ -1,0 +1,10 @@
+Number,Symbol,Description,Min.,Max.,Units,Note
+4,t_Lag,Enable lag time,1,—,t_periph,—
+5,t_WSCK,Clock (SCK) high or low time,tSCK / 2 - 5,tSCK / 2 + 5,ns,—
+6,t_SU,Data setup time (inputs),3,—,ns,—
+7,t_HI,Data hold time (inputs),3,—,ns,—
+8,t_a,Peripheral access access time,—,20,ns,4
+8,t_a,Peripheral access access time,—,20,ns,5
+9,t_dis,Peripheral MISO disable time,—,20,ns,5
+10,t_V,Data valid (after SCK edge),—,8,ns,6
+11,t_HO,Data hold time (outputs),0,—,ns,—

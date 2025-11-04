@@ -1,0 +1,4 @@
+Symbol,Parameter,Min,Max,Unit
+—,Frequency of operation,—,50,MHz
+F1,Setup time for incoming data,7,—,ns
+F2,Hold time for incoming data,0,—,ns

@@ -1,0 +1,6 @@
+Main modules,Frequency (Low Drive mode),Frequency (Nominal mode),Frequency (Overdrive mode)
+EdgeLock® Secure Enclave,133 MHz,200 MHz,250 MHz
+Cortex®-M33 core,133 MHz,200 MHz,250 MHz
+Cortex®-A55 core,0.9 GHz,1.4 GHz,1.7 GHz
+DRAM,933 MHz,1400 MHz,1866 MHz
+NPU,500 MHz,800 MHz,1000 MHz

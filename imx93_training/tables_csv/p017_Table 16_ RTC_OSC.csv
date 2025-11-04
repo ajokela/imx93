@@ -1,0 +1,5 @@
+,Symbol,Min,Typ,Max,Unit
+Frequency,f,—,32.768,—,kHz
+RTC_XTALI,V_H,0.9 x NVCC_BBSM_1P8,—,NVCC_BBSIM_1P8,V
+,V_L,0,—,0.1 x NVCC_BBSM_1P8,V
+,Duty cycle,45,—,55,%

@@ -1,0 +1,8 @@
+Symbol,Parameter,Min,Typ,Max,Unit
+V_IDTH,Differential input high voltage voltage threshold,—,—,70,mV
+V_IDTL,Differential input low voltage threshold,-70,—,70,mV
+V_IDTLHS,Differential input low voltage threshold,-70,—,—,mV
+V_IHHS,Single ended input high voltage,—,—,460,mV
+V_ILHS,Single ended input low voltage,-40,—,—,mV
+V_CMRXDC,Input common mode voltage,70,—,330,mV
+Z_ID,Differential input impedance,80,100,125,Ω

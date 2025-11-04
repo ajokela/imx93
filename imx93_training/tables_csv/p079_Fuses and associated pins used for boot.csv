@@ -1,0 +1,17 @@
+BOOT_MODE[3:0],Function
+x000,Boot from Internal Fuses
+0001,Serial Download (USB1)
+0010,uSDHC1 8-bit eMMC 5.1
+0011,uSDHC2 4-bit SD 3.0
+0100,FlexSPI Serial NOR
+0101,FlexSPI Serial NAND 2K
+0110,Reserved
+0111,Reserved
+1000,LPB: Boot from Internal Fuses
+1001,LPB: Serial Downloader (USB1)
+1010,LPB: uSDHC1 8-bit 1.8 V eMMC 5.1
+1011,LPB: uSDHC2 4-bit SD 3.0
+1100,LPB: FlexSPI Serial NOR
+1101,LPB: FlexSPI Serial NAND 2K
+1110,Reserved
+1111,Reserved

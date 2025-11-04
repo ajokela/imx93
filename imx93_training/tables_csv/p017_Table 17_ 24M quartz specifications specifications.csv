@@ -1,0 +1,5 @@
+Symbol,Parameter Description,Min,Typ,Max,Unit
+fXTAL,Frequency,—,24,—,MHz
+CLOAD,Cload,—,12,—,pF
+DL,Drive level,—,—,100,µW
+ESR,ESR,—,—,120,Ω
